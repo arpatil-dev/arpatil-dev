@@ -41,6 +41,7 @@ I'm a full-stack developer passionate about building **scalable, user-centric we
 
 ---
 
+
 ### 📊 GitHub Activity
 
 <p align="center">
